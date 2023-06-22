@@ -123,6 +123,7 @@ a.navbar-brand i{
 }
 div#bs-example-navbar-collapse-1 {
     margin-top: .3em;
+	margin-bottom: 20px;
     padding-left: 4em;
 }
 .agile_short_dropdown {
@@ -768,6 +769,7 @@ a.trend-w3l:hover {
 	font-weight: 400;
 	color: white;
 	margin-bottom: 10px;
+	padding: 0 39px;
 }
 h4.stats-info {
 	margin-top: 20px;
